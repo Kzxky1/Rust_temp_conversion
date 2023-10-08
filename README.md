@@ -1,2 +1,2 @@
 # Rust_temp_conversion
-Degree celsius or vise versa in rust
+Degree celsius or visa versa in rust
